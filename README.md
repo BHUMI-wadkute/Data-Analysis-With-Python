@@ -30,7 +30,15 @@ It contains step-by-step notebooks showing how to **analyze, manipulate, and vis
 
 ---
 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+🙋‍♀ Author
+
+Bhumi Pravin Wadkute 💼 LinkedIn (https://www.linkedin.com/in/bhumi-wadkute-b3a974369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+🐱 GitHub: BHUMI-wadkute
 
